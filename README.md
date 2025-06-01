@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">🔭 Studying Btech Artificial Intelligence and Data science at Shiv Nadar University, Chennai<br><br>🤝 Open to collaborating on side projects that involve clean code, backend systems, or creative automation.<br><br>🔍 Passionate about Python, deep learning, machine learning, and intelligent systems.</p>
+<p align="left">🔭 Studying Btech Artificial Intelligence and Data science at Shiv Nadar University, Chennai<br><br>🤝 Open to collaborating on side projects that involve neural networks, backend systems, creative automation, or finance usages in AI.<br><br>🔍 Passionate about Python, deep learning, machine learning, and intelligent systems.</p>
 
 ###
 
